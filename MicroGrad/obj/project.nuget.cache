@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "50375SeoWWA=",
+  "dgSpecHash": "UcHO4TviKY8=",
   "success": true,
-  "projectFilePath": "E:\\Unity Projects\\Manas\\MicroGrad\\MicroGrad\\MicroGrad.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\gitHubFiles\\MicroGrad\\MicroGrad\\MicroGrad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdey1\\.nuget\\packages\\microsoft.msagl\\1.1.6\\microsoft.msagl.1.1.6.nupkg.sha512",
+    "C:\\Users\\mdey1\\.nuget\\packages\\microsoft.msagl.drawing\\1.1.6\\microsoft.msagl.drawing.1.1.6.nupkg.sha512",
+    "C:\\Users\\mdey1\\.nuget\\packages\\microsoft.msagl.graphviewergdi\\1.1.7\\microsoft.msagl.graphviewergdi.1.1.7.nupkg.sha512"
+  ],
   "logs": []
 }

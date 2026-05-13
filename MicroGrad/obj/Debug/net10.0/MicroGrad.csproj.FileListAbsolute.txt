@@ -13,3 +13,23 @@ E:\Unity Projects\Manas\MicroGrad\MicroGrad\obj\Debug\net10.0\MicroGrad.pdb
 E:\Unity Projects\Manas\MicroGrad\MicroGrad\obj\Debug\net10.0\MicroGrad.genruntimeconfig.cache
 E:\Unity Projects\Manas\MicroGrad\MicroGrad\obj\Debug\net10.0\ref\MicroGrad.dll
 E:\Unity Projects\Manas\MicroGrad\MicroGrad\obj\Debug\net10.0\MicroGrad.sourcelink.json
+D:\gitHubFiles\MicroGrad\MicroGrad\bin\Debug\net10.0\MicroGrad.exe
+D:\gitHubFiles\MicroGrad\MicroGrad\bin\Debug\net10.0\MicroGrad.deps.json
+D:\gitHubFiles\MicroGrad\MicroGrad\bin\Debug\net10.0\MicroGrad.runtimeconfig.json
+D:\gitHubFiles\MicroGrad\MicroGrad\bin\Debug\net10.0\MicroGrad.dll
+D:\gitHubFiles\MicroGrad\MicroGrad\bin\Debug\net10.0\MicroGrad.pdb
+D:\gitHubFiles\MicroGrad\MicroGrad\obj\Debug\net10.0\MicroGrad.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHubFiles\MicroGrad\MicroGrad\obj\Debug\net10.0\MicroGrad.AssemblyInfoInputs.cache
+D:\gitHubFiles\MicroGrad\MicroGrad\obj\Debug\net10.0\MicroGrad.AssemblyInfo.cs
+D:\gitHubFiles\MicroGrad\MicroGrad\obj\Debug\net10.0\MicroGrad.csproj.CoreCompileInputs.cache
+D:\gitHubFiles\MicroGrad\MicroGrad\obj\Debug\net10.0\MicroGrad.sourcelink.json
+D:\gitHubFiles\MicroGrad\MicroGrad\obj\Debug\net10.0\MicroGrad.dll
+D:\gitHubFiles\MicroGrad\MicroGrad\obj\Debug\net10.0\refint\MicroGrad.dll
+D:\gitHubFiles\MicroGrad\MicroGrad\obj\Debug\net10.0\MicroGrad.pdb
+D:\gitHubFiles\MicroGrad\MicroGrad\obj\Debug\net10.0\MicroGrad.genruntimeconfig.cache
+D:\gitHubFiles\MicroGrad\MicroGrad\obj\Debug\net10.0\ref\MicroGrad.dll
+D:\gitHubFiles\MicroGrad\MicroGrad\bin\Debug\net10.0\Microsoft.Msagl.dll
+D:\gitHubFiles\MicroGrad\MicroGrad\bin\Debug\net10.0\Microsoft.Msagl.Drawing.dll
+D:\gitHubFiles\MicroGrad\MicroGrad\bin\Debug\net10.0\Microsoft.Msagl.GraphViewerGdi.dll
+D:\gitHubFiles\MicroGrad\MicroGrad\obj\Debug\net10.0\MicroGrad.csproj.AssemblyReference.cache
+D:\gitHubFiles\MicroGrad\MicroGrad\obj\Debug\net10.0\MicroGrad.csproj.Up2Date

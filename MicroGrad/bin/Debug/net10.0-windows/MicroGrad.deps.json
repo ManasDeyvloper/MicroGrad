@@ -40,7 +40,7 @@
           "Microsoft.Msagl.Drawing": "1.1.6"
         },
         "runtime": {
-          "lib/net472/Microsoft.Msagl.GraphViewerGdi.dll": {
+          "lib/net7.0-windows7.0/Microsoft.Msagl.GraphViewerGdi.dll": {
             "assemblyVersion": "0.0.0.0",
             "fileVersion": "0.0.0.0"
           }
