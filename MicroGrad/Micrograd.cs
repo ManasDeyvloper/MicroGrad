@@ -6,31 +6,6 @@ namespace MicroGrad
         static void Main(string[] args)
         {
 
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             Console.ReadLine();
         }
     }
