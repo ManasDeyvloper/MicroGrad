@@ -1,11 +1,37 @@
 
 namespace MicroGrad
 {
-    class Program
+    class Micrograd
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Console.ReadLine();
         }
     }
 }
