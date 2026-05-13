@@ -1,0 +1,14 @@
+E:\Unity Projects\Manas\MicroGrad\MicroGrad\bin\Debug\net10.0\MicroGrad.exe
+E:\Unity Projects\Manas\MicroGrad\MicroGrad\bin\Debug\net10.0\MicroGrad.deps.json
+E:\Unity Projects\Manas\MicroGrad\MicroGrad\bin\Debug\net10.0\MicroGrad.runtimeconfig.json
+E:\Unity Projects\Manas\MicroGrad\MicroGrad\bin\Debug\net10.0\MicroGrad.dll
+E:\Unity Projects\Manas\MicroGrad\MicroGrad\bin\Debug\net10.0\MicroGrad.pdb
+E:\Unity Projects\Manas\MicroGrad\MicroGrad\obj\Debug\net10.0\MicroGrad.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity Projects\Manas\MicroGrad\MicroGrad\obj\Debug\net10.0\MicroGrad.AssemblyInfoInputs.cache
+E:\Unity Projects\Manas\MicroGrad\MicroGrad\obj\Debug\net10.0\MicroGrad.AssemblyInfo.cs
+E:\Unity Projects\Manas\MicroGrad\MicroGrad\obj\Debug\net10.0\MicroGrad.csproj.CoreCompileInputs.cache
+E:\Unity Projects\Manas\MicroGrad\MicroGrad\obj\Debug\net10.0\MicroGrad.dll
+E:\Unity Projects\Manas\MicroGrad\MicroGrad\obj\Debug\net10.0\refint\MicroGrad.dll
+E:\Unity Projects\Manas\MicroGrad\MicroGrad\obj\Debug\net10.0\MicroGrad.pdb
+E:\Unity Projects\Manas\MicroGrad\MicroGrad\obj\Debug\net10.0\MicroGrad.genruntimeconfig.cache
+E:\Unity Projects\Manas\MicroGrad\MicroGrad\obj\Debug\net10.0\ref\MicroGrad.dll
