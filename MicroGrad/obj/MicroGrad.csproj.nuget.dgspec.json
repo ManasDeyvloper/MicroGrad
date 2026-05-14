@@ -1,39 +1,44 @@
 {
   "format": 1,
   "restore": {
-    "D:\\gitHubFiles\\MicroGrad\\MicroGrad\\MicroGrad.csproj": {}
+    "E:\\Unity Projects\\Manas\\MicroGrad\\MicroGrad\\MicroGrad.csproj": {}
   },
   "projects": {
-    "D:\\gitHubFiles\\MicroGrad\\MicroGrad\\MicroGrad.csproj": {
+    "E:\\Unity Projects\\Manas\\MicroGrad\\MicroGrad\\MicroGrad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\gitHubFiles\\MicroGrad\\MicroGrad\\MicroGrad.csproj",
+        "projectUniqueName": "E:\\Unity Projects\\Manas\\MicroGrad\\MicroGrad\\MicroGrad.csproj",
         "projectName": "MicroGrad",
-        "projectPath": "D:\\gitHubFiles\\MicroGrad\\MicroGrad\\MicroGrad.csproj",
-        "packagesPath": "C:\\Users\\mdey1\\.nuget\\packages\\",
-        "outputPath": "D:\\gitHubFiles\\MicroGrad\\MicroGrad\\obj\\",
+        "projectPath": "E:\\Unity Projects\\Manas\\MicroGrad\\MicroGrad\\MicroGrad.csproj",
+        "packagesPath": "C:\\Users\\Innovate Labs\\.nuget\\packages\\",
+        "outputPath": "E:\\Unity Projects\\Manas\\MicroGrad\\MicroGrad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mdey1\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+          "C:\\Users\\Innovate Labs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0-windows"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net10.0-windows": {
-            "framework": "net10.0-windows7.0",
+          "net10.0-windows7.0": {
             "targetAlias": "net10.0-windows",
             "projectReferences": {}
           }
         },
         "warningProperties": {
+          "noWarn": [
+            "NU1701"
+          ],
           "warnAsError": [
             "NU1605"
           ]
@@ -43,11 +48,10 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
-        "net10.0-windows": {
-          "framework": "net10.0-windows7.0",
+        "net10.0-windows7.0": {
           "targetAlias": "net10.0-windows",
           "dependencies": {
             "Microsoft.Msagl": {
@@ -61,6 +65,10 @@
             "Microsoft.Msagl.GraphViewerGDI": {
               "target": "Package",
               "version": "[1.1.7, )"
+            },
+            "ScottPlot.WinForms": {
+              "target": "Package",
+              "version": "[5.1.58, )"
             }
           },
           "imports": [
@@ -82,7 +90,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
