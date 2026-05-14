@@ -1,48 +1,56 @@
-class Micrograd
+
+using System.Windows.Forms;
+using Microsoft.Msagl.GraphViewerGdi;
+using ScottPlot;
+
+public class Micrograd
 {
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
-        Value a = new Value(2.0);
-        Value b = new Value(3.0);
-        Value c = new Value(10.0);
-        Value d = a * b;
-        Value e = a * b + c;
-        e.Print();
-        foreach (var child in e.children)
-        {
-            child.Print();
-            Console.WriteLine(child.op);
-        }
+        Value a = new Value( 2.0,label:"a");
+        Value b = new Value( 3.0,label:"b");
+        Value c = new Value( 10.0,label:"c");
+        
+        Value d = a * b; d.Label = "d";
+
+        Value e = d + c; e.Label = "e";
+       
+       Draw.DrawDot(e);
     }
     public class Value
     {
-        public double data;
-        public double grad;
-        public HashSet<Value> children;
-        public string op;
+        public string Label;
+        public double Data;
+        public double Grad;
+        public HashSet<Value> Prev;
+        public string Op;
 
-        public Value(double data, HashSet<Value>? children = null, string op = "")
+        public Value( double data, HashSet<Value>? prev = null, string op = "",string label = "")
         {
-            this.data = data;
-            this.grad = 0.0;
-            this.children = children ?? [];
-            this.op = op;
+            this.Label = label;
+            this.Data = data;
+            this.Grad = 0.0;
+            this.Prev = prev ?? [];
+            this.Op = op;
         }
 
         public void Print()
         {
-            Console.WriteLine($"Value(data={data})");
+            Console.WriteLine($"Value(label={Label}, data={Data})");
         }
 
         public static Value operator +(Value a, Value b)
         {
-            return new Value(a.data + b.data, new HashSet<Value> { a, b }, op: "+");
+            return new Value(a.Data + b.Data, new HashSet<Value> { a, b }, op: "+");
         }
 
         public static Value operator *(Value a, Value b)
         {
-            return new Value(a.data * b.data, new HashSet<Value> { a, b }, op: "*");
+            return new Value(a.Data * b.Data, new HashSet<Value> { a, b }, op: "*");
         }
+         
+
+
     }
 
 
