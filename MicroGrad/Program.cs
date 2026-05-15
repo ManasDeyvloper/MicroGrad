@@ -1,6 +1,8 @@
-﻿using Microsoft.Msagl.Drawing;
-using Microsoft.Msagl.GraphViewerGdi;
+﻿// using Microsoft.Msagl.Drawing;
+// using Microsoft.Msagl.GraphViewerGdi;
 using System.Windows.Forms;
+using Microsoft.Msagl.Drawing;
+using Microsoft.Msagl.GraphViewerGdi;
 using static Micrograd;
 
 // Trace: builds set of all nodes and edges
