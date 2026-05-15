@@ -41,7 +41,7 @@ public static class Draw
 
             // rectangular node showing data and grad
             var node = graph.AddNode(uid);
-            node.LabelText = $"{n.Label} | data {n.Data:F4} | grad {n.Grad:F4}";
+            node.LabelText = $" {n.Label} |  data {n.Data:F4} |  grad {n.Grad:F4} ";
             node.Attr.Shape = Shape.Box;
 
             // if result of an operation, add an op node
