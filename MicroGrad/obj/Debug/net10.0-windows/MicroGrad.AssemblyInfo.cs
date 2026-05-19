@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MicroGrad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6571701f981eaf879750cb7ce516b6ca8bd526dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82e13523fb9abce68be2b84d2e808346dfa213a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MicroGrad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MicroGrad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
